@@ -27,14 +27,3 @@ while index < len(players):
     index = index + 1
 sleep(5)
 print(vidsList)
-
-#sleep(2) # Or however long you expect it to take to open vlc
-#while player. & running:
-#    if(keyboard.is_pressed('q')):
-#        running = False
-#Instance = vlc.Instance('--fullscreen')
-#player = Instance.media_player_new()
-#Media = Instance.media_new('https://www.youtube.com/watch?v=vDZ9dR2HZ1A')
-#Media.get_mrl()
-#player.set_media(Media)
-#player.play()pip
